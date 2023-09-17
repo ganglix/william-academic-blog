@@ -18,6 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+Hey! I'm **William**, a Mathmatician at Brevroot. 
+
+My research interests include unconventional math and stuff.
 
 Check out my [CV](/about/) and blog posts below 🌈
