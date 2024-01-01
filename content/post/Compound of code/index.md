@@ -47,4 +47,4 @@ categories:
 + Because we need it to jumphop over the house.
 
 3. How do we use it?
-+ You have to do pushups unit you got infinite strong and dial 101 with code.
++ You have to do pushups unit you got infinite strong and dail 101 with code.
